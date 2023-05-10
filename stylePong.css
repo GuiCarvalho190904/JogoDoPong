@@ -1,0 +1,12 @@
+﻿#canvas {
+    border: 12px groove #ffffff;
+    box-shadow: 0 0 24px #00ffd5, 0 0 25px #ffffff
+    
+}
+body{
+    background-color:#000000;
+    height: 90vh;
+    width: 100vw;
+    background-size: 100%;
+    text-align: center;
+}
